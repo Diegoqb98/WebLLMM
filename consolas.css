@@ -1,0 +1,89 @@
+/* Estilos CSS (css/styles.css) */
+
+/* Estilos Generales */
+body {
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+
+/* Barra de Navegación */
+nav {
+    background-color: #333;
+    padding: 10px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    margin-right: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+/* Contenido de la Página */
+section {
+    color: white;
+    text-align: center;
+    padding: 1px;
+    background-color: black;
+    margin: 0px;
+    font-weight: bold;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Estilos específicos para la Página de consolas */
+#Consolas {
+    background-color: black;
+    color: white;
+    padding: 1;
+    margin: 0;    
+}
+
+/* Estilos específicos para las Páginas de Marca */
+#Sony, #Nintendo, #Microsoft {
+    border: 1px solid;
+    border-radius: 1px;
+    box-shadow: 0 0 10px black (0, 0, 0, 0.1);
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+
+}
+
+/* Estilos para todos los Párrafos */
+p {
+    margin: 10px 0;
+    padding: 0 10px;
+}
+#Sony {
+    color: black;
+    background-color:mediumblue;
+    margin: 0;
+    padding: 0;
+}
+#Nintendo {
+    color: white;
+    background-color:red;
+    margin: 0;
+    padding: 0;
+}
+img {
+    width: 300px; /* Ancho fijo de 300 píxeles */
+    height: auto;
+}
+#Microsoft  {
+    color: black;
+    background-color:green;
+    margin: 0;
+    padding: 0;  
+}
