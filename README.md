@@ -49,11 +49,11 @@
 
 ## Capturas de Pantalla
 
-- [Captura de Pantalla de la Consolas](img/imagenes/Consolas.jpg)
-- [Captura de Pantalla de la Página de Sony](img/imagenes/Sony.jpg)
-- [Captura de Pantalla de Nintendo](img/imagenes/Nintendo.jpg)
-- [Captura de Pantalla de  Microsoft](img/imagenes/Microsoft.jpg)
-- [Captura de Pantalla de responsive](img/imagenes/responsive.jpg)
+- [Captura de Pantalla de la Consolas](img/Imagenes/Consolas.jpg)
+- [Captura de Pantalla de la Página de Sony](img/Imagenes/Sony.jpg)
+- [Captura de Pantalla de Nintendo](img/Imagenes/Nintendo.jpg)
+- [Captura de Pantalla de  Microsoft](img/Imagenes/Microsoft.jpg)
+- [Captura de Pantalla de responsive](img/Imagenes/responsive.jpg)
 ## División de Tareas
 
 - **Diego Quiroga:**
