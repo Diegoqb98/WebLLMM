@@ -1,4 +1,4 @@
-/* Estilos CSS (css/styles.css) */
+/* Estilos CSS (consolas.css) */
 
 /* Estilos Generales */
 body {
@@ -13,6 +13,7 @@ nav {
     background-color: #333;
     padding: 10px;
 }
+/* Estilos ul */
 
 ul {
     list-style-type: none;
@@ -20,11 +21,13 @@ ul {
     padding: 0;
 }
 
+/* Estilos li */
 li {
     display: inline;
     margin-right: 20px;
 }
 
+/* Estilos a */
 a {
     text-decoration: none;
     color: white;
@@ -65,22 +68,29 @@ p {
     margin: 10px 0;
     padding: 0 10px;
 }
+
+/* Estilos sony */
 #Sony {
     color: black;
     background-color:mediumblue;
     margin: 0;
     padding: 0;
 }
+
+/* Estilos nintendo */
 #Nintendo {
     color: white;
     background-color:red;
     margin: 0;
     padding: 0;
 }
+
+/* tamaño de las Imagenes */
 img {
-    width: 300px; /* Ancho fijo de 300 píxeles */
+    width: 300px; 
     height: auto;
 }
+/* Estilos Microsoft */
 #Microsoft  {
     color: black;
     background-color:green;
